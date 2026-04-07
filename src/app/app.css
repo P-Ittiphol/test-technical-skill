@@ -1,0 +1,21 @@
+.form-group-name{
+    margin-bottom: 16px;
+}
+
+.question{
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+}
+
+.choices{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 6px 0;
+    cursor: pointer;
+}
+
+.choices input {
+    transform: scale(1.2);
+}
